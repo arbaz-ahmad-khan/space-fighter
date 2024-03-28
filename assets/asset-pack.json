@@ -1,0 +1,77 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/bg.png",
+                "type": "image",
+                "key": "bg"
+            },
+            {
+                "url": "assets/images/bullet.png",
+                "type": "image",
+                "key": "bullet"
+            },
+            {
+                "url": [
+                    "assets/sounds/bullet-kill.mp3"
+                ],
+                "type": "audio",
+                "key": "bullet-kill"
+            },
+            {
+                "url": "assets/images/enemyShip.png",
+                "type": "image",
+                "key": "enemyShip"
+            },
+            {
+                "url": "assets/images/enemyShip-2.png",
+                "type": "image",
+                "key": "enemyShip-2"
+            },
+            {
+                "url": "assets/images/enemyShip-3.png",
+                "type": "image",
+                "key": "enemyShip-3"
+            },
+            {
+                "url": "assets/images/enemyShip-4.png",
+                "type": "image",
+                "key": "enemyShip-4"
+            },
+            {
+                "url": "assets/images/explosion-huge.png",
+                "type": "image",
+                "key": "explosion-huge"
+            },
+            {
+                "url": "assets/images/replay.png",
+                "type": "image",
+                "key": "replay"
+            },
+            {
+                "url": "assets/images/ship.png",
+                "type": "image",
+                "key": "ship"
+            },
+            {
+                "url": "assets/images/spark.png",
+                "type": "image",
+                "key": "spark"
+            },
+            {
+                "url": [
+                    "assets/sounds/weapon-shoot.mp3"
+                ],
+                "type": "audio",
+                "key": "weapon-shoot"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
